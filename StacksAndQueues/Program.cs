@@ -6,7 +6,7 @@ namespace StacksAndQueues
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to stacks and Queues Program!");
+            Console.WriteLine("Welcome to stacks and Queues Program !");
 
             LinkedListStack linkedListStack = new LinkedListStack();
             linkedListStack.push(70);

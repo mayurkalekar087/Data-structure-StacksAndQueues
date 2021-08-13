@@ -34,9 +34,7 @@ namespace StacksAndQueues
                 temp = temp.next;
             }
         }
-       
-    }
-
+     }
 }
 
     
