@@ -23,6 +23,9 @@ namespace StacksAndQueues
             linkedListQueues.Enqueue(70);
             linkedListQueues.Display();
             Console.WriteLine("------------------");
+            linkedListQueues.Dequeue();
+            linkedListQueues.Display();
+
            
         }
     }
